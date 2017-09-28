@@ -5,6 +5,7 @@ package com.lanou.test;
  */
 public class MainTest {
     public static void main(String[] args) {
+        System.out.println("Lemo tree");
         System.out.println("困的一比");
     }
 }
