@@ -10,5 +10,6 @@ public class MainTest {
         a++;
         System.out.println(a);
         System.out.println("困的一比");
+        Integer b = 333;
     }
 }
